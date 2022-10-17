@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="color.py" />
     <Compile Include="examples.py" />
+    <Compile Include="tests.py" />
     <Compile Include="tmm_core.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
